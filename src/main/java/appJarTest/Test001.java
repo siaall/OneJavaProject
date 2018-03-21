@@ -22,8 +22,5 @@ public class Test001 {
 		
 
 	}
-	/**
-	 * @author: Siaall
-	 * @date: 2018-03-15 16:23
-	 */
+
 }
