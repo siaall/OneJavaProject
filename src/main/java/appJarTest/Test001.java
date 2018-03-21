@@ -14,7 +14,7 @@ public class Test001 {
 	public static void main(String[] args) {
 
      TestJar tt = new TestJar();
-     String name ="Emma Girl";
+     String name ="Emma Girl 1";
       tt.fn1(name);
 		
 		
